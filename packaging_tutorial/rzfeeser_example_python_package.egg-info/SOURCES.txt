@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+rzfeeser_example_python_package.egg-info/PKG-INFO
+rzfeeser_example_python_package.egg-info/SOURCES.txt
+rzfeeser_example_python_package.egg-info/dependency_links.txt
+rzfeeser_example_python_package.egg-info/top_level.txt
